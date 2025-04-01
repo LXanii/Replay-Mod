@@ -1,0 +1,19 @@
+{
+	"geode": "4.3.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "xanii.replay_mod",
+	"name": "Replay Mod",
+	"version": "v1.0.0",
+	"developer": "Xanii",
+	"description": "By downloading this mod, you consent to having your gameplay inputs tracked.",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}

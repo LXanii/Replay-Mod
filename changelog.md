@@ -1,4 +1,3 @@
-# 1.0.0 Changelog
+# 1.0.0
 
-- LETS GET FREAKY
-- Increased GD Freakiness
+- Release
